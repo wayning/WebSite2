@@ -1,0 +1,2 @@
+<asp:LinkButton ID="LinkButton1" runat="server" CommandName="viewadd" CommandArgument='<%# Bind("act_id") %>'>¶i¤J¯d¨¥ªO</asp:LinkButton>
+

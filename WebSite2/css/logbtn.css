@@ -1,0 +1,13 @@
+@CHARSET "BIG5";.btn {
+    color: white;
+    background-color: #2579d1;
+    padding: 0px 1em;
+    height: 35px;
+	font-size:17px;
+	border-radius: 12px;
+   /* border: 0px solid black;*/
+}
+
+.btn:hover {
+    background-color: #00ff00;
+}
